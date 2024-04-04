@@ -19,7 +19,7 @@
 
 - O ambiente de desenvolvimento e as bibliotecas Python utilizadas no estudo estão descritos no README.md do repositório.
 - O código do estudo foi documentado para facilitar a reprodução.
-- Se você encontrar algum problema ao reproduzir o estudo, entre em contato com o autor ([e-mail do autor]).
+- Se você encontrar algum problema ao reproduzir o estudo, entre em contato com o autor alessandro.benedet@grad.ufsc.br
 
 ### Reproduzir este estudo permite que você:
 
